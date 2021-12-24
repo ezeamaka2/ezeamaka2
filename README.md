@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### - 🌱 I’m currently learning Blockchain Development
+#### - 👯 I’m looking to ccollaborate on Web3 Prrojects
+#### - 🌱 I'm open to learning and helping others
