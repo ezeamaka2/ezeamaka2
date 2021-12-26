@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 #### - 👯 I’m looking to collaborate on Web3 Projects
 #### - 🌱 I'm open to learning and helping others
 
-##2022 is going to be great
+## 2022 is going to be great
