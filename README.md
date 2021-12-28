@@ -7,7 +7,7 @@
 
 <p>I am a Passionate Web3.0 Developer</p>
 
-**About me**
+**Highlight About me**
 - Self-thought frontend devloper
 - Passionate about Blcokchain and Cryptocurrencies
 - Ethereum Developement and Solidity trained by [Emurgo.in](https://emurgo.in)
