@@ -1,21 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Eze Amaka</h1>
+<br />
 
-<!--
-**ezeamaka2/ezeamaka2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I am a Passionate Web3.0 Developer</p>
 
-Here are some ideas to get you started:
+**About me**
+- Self-thought frontend devloper
+- Passionate about Blcokchain and Cryptocurrencies
+- Ethereum Developement and Solidity trained by [Emurgo.in](https://emurgo.in)
+- I am avid Javascript and Solidity lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### - 🌱 I’m currently learning Blockchain Development
-#### - 👯 I’m looking to collaborate on Web3 Projects
-#### - 🌱 I'm open to learning and helping others
-
-## 2022 is going to be great
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=ezeamaka2&show_icons=true&theme=tokyonight" 
+/>
