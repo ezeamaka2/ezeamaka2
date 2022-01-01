@@ -13,10 +13,27 @@
 - Ethereum Developement and Solidity trained by [Emurgo.in](https://emurgo.in)
 - I am avid Javascript and Solidity lover
 
+<p>
+<img src ="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Smart Contract-3C3C3D?style=for-the-badge&logo=SmartContract&logoColor=white"/>
+<img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src ="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src ="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src ="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src ="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
+<img src ="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)"/>
+<img src ="https://img.shields.io/badge/-hardhat-%23C21325?style=for-the-badge&logo=hardhat&logoColor=white)"/>
+<img src ="https://img.shields.io/badge/-truffle-%23C21325?style=for-the-badge&logo=hardhat&logoColor=white)"/>
+<img src ="https://img.shields.io/badge/-we3js-%23C21325?style=for-the-badge&logo=hardhat&logoColor=white)"/>
+<img src ="https://img.shields.io/badge/-ethersjs-%23C21325?style=for-the-badge&logo=hardhat&logoColor=white)"/>
+<img src ="https://img.shields.io/badge/-ganache-%23C21325?style=for-the-badge&logo=hardhat&logoColor=white)"/>
+</p>
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=ezeamaka2&show_icons=true&theme=tokyonight" 
 />
-
-**Programming Language and Tools I work with**
-- Javascript, React, Nodejs, Web3JS, EthersJs
-- Solidity, Truffle, Hardhat, Ganache
