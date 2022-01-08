@@ -11,7 +11,7 @@
 - Self-thought frontend devloper
 - Passionate about Blcokchain and Cryptocurrencies
 - Ethereum Developement and Solidity trained by [Emurgo.in](https://emurgo.in)
-- I am avid Javascript and Solidity lover
+- I am avid Javascript and Solidity lover.....
 
 <p>
 <img src ="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
