@@ -26,7 +26,6 @@
 <img src ="https://img.shields.io/badge/-truffle-%23C21325?style=for-the-badge&logo=hardhat&logoColor=white)"/>
 <img src ="https://img.shields.io/badge/-we3js-%23C21325?style=for-the-badge&logo=hardhat&logoColor=white)"/>
 <img src ="https://img.shields.io/badge/-ethersjs-%23C21325?style=for-the-badge&logo=hardhat&logoColor=white)"/>
-<img src ="https://img.shields.io/badge/-ganache-%23C21325?style=for-the-badge&logo=hardhat&logoColor=white)"/>
 </p>
 
 <img 
