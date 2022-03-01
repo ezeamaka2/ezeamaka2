@@ -31,6 +31,3 @@
 <img 
    src="https://github-readme-stats.vercel.app/api?username=ezeamaka2&show_icons=true&theme=tokyonight" 
 />
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="26b04dfe-d67a-40ba-b159-efb9ba74233e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
