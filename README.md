@@ -10,7 +10,7 @@
 **Highlight About me**
 - Self-thought frontend devloper
 - Passionate about Blcokchain and Cryptocurrencies
-- Ethereum Developement and Solidity trained by [Emurgo.in](https://emurgo.in)
+trained by [Emurgo.in](https://emurgo.in)
 - I am avid Javascript and Solidity lover.....
 
 <p>
