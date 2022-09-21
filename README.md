@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Eze Amaka</h1>
+<h1 align="center"I'm Eze Amaka</h1>
 <br />
     
 [![Eze Amaka's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezeamaka2/)
