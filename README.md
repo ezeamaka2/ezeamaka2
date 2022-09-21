@@ -1,10 +1,5 @@
 
-<p>Passionate Web3.0 Developer</p>
-
-**Highlight About me**
-- Self-thought frontend devloper
-- Passionate about Blcokchain and Cryptocurrencies
-- I am avid Javascript and Solidity lover.....
+<p>Passionate React/Typescript Developer</p>
 
 
 <img 
