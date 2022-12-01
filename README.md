@@ -1,5 +1,5 @@
 
-<p>Passionate React/Typescript Developer</p>
+<p>React/Typescript Developer</p>
 
 
 <img 
